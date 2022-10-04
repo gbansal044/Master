@@ -9,6 +9,7 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 ## Objective
 • To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
+
 • Explore the data in order to obtain more insight from the data.
 ## Business metric
 Classification accuracy - number of correct prediction divided by the total number of prediction defined as:
@@ -18,4 +19,5 @@ Classification accuracy - number of correct prediction divided by the total numb
 
 ## Deliverables
 • Accurate predictive algorithms
+
 • Business case report to stakeholders
